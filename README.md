@@ -1,5 +1,6 @@
 # Citations
-Here, citations and other material for posters are added
+Here, citations and other material for posters are added.
+
 References for poster called "Where are the LGI1 and CASPR2 encephalitis patients in Stockholm, Sweden?" 
 presented on the Encephalitis Conference, Londond 2022: 
 
